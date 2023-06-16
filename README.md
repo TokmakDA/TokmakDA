@@ -11,8 +11,6 @@
 <h2>Мой стек:</h2>
 <!-- Stack icons section -->
 <p align="center">
-[![HTML](./src/images/icons8-html-5-48.svg)]
-
 <img src="./src/images/icons8-html-5-48.svg" alt="HTML" title="HTML" />
 &#8287;&#8287;
 <!-- CCS -->
