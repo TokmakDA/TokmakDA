@@ -1,6 +1,5 @@
 <!-- <h1>Всем привет, меня зовут Дмитрий 👋</h1> -->
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=500&center=true&vCenter=true&multiline=true&repeat=false&width=550&lines=%D0%92%D1%81%D0%B5%D0%BC+%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9++%F0%9F%91%8B" alt="Typing SVG" /></a>
+<img src="./src/images/hello.svg" alt="HTML" title="HTML" />
 
 <p>- 🎓 Прохожу обучени в Я.Практикум</p>
 <p>- 📜 В настоящее время пишу диплом</p>
