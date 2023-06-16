@@ -57,7 +57,7 @@
 &#8287;&#8287;
 <a href="https://www.iloveimg.com/"><img src="./src/images/iloveimg_48.svg" alt="iloveimg" title="iloveimg" /><a>
 &#8287;&#8287;
-<a href="https://learn.javascript.ru/"><img src="./src/images/learn_javascript_ru_animate%2048.svg" alt="learn.javascript" title="learn.javascript" /><a>
+<a href="https://learn.javascript.ru/"><img src="./src/images/learn_javascript_ru_animate_48.svg" alt="learn.javascript" title="learn.javascript" /><a>
 </p>
 
 <!--
