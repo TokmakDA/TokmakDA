@@ -1,11 +1,11 @@
 <!-- <h1>Всем привет, меня зовут Дмитрий 👋</h1> -->
 <!-- <img src="./src/images/hello.svg" alt="HTML" title="HTML" /> -->
 ![Всем привет, меня зовут Дмитрий 👋](./src/images/hello.svg)
-<p>- 🎓 Прохожу обучени в Я.Практикум</p>
-<p>- 📜 В настоящее время пишу диплом</p>
-<p>- 🚀 Хочу постоянно развивать новые навыки</p>
-<p>- 🛠️ Хочу разрабатывать интересные проекты и удобные интерфейсы</p>
-<p>- ✍️ Писать чистый и понятный код</p>
+* 🎓 Прохожу обучени в Я.Практикум
+* 📜 В настоящее время пишу диплом
+* 🚀 Хочу постоянно развивать новые навыки
+* 🛠️ Хочу разрабатывать интересные проекты и удобные интерфейсы
+* ✍️ Писать чистый и понятный код
 
 <h2>Мой стек:</h2>
 <!-- Stack icons section -->
@@ -35,34 +35,29 @@
 &#8287;&#8287;
 <!-- Webpack -->
 <img src="./src/images/icons8-webpack-48.svg" alt="Webpack" title="Webpack" />
-
-</p>
-
-## Мой софт:
-
-<!-- Soft icons section -->
-<p align="center">
-<!-- VSCode -->
-<img src="./src/images" alt="" title="" />
-<!--  -->
-<!--  -->
-<!-- Notion -->
-<img src="./src/images" alt="" title="" />
 </p>
 
 ## Учебные проекты:
+<img src="./src/images" alt="" title="" />
 
 ## Полезные ресурсы:
 
 <p align="center">
-<a href="https://stackoverflow.com/"><img src="./src/images" alt="" title="" /></a>
-<a href="https://github.com/"><a>
-<a href=""><a>
-<a href=""><a>
-<a href=""><a>
-<a href=""><a>
-<a href=""><a>
-<a href="https://learn.javascript.ru/"><img src="./src/images" alt="" title="" /><a>
+<a href="https://stackoverflow.com/"><img src="./src/images/icons8-stack-overflow-48.svg" alt="stackoverflow" title="stackoverflow" /></a>
+&#8287;&#8287;
+<a href="https://github.com/"><img src="./src/images/icons8-github-48.svg" alt="GitHub" title="GitHub" /><a>
+&#8287;&#8287;
+<a href="https://codepen.io/"><img src="./src/images/icons8-codepen-48.svg" alt="codepen" title="codepen" /><a>
+&#8287;&#8287;
+<a href="https://www.codewars.com/"><img src="./src/images/icons8-codewars-48.svg" alt="codewars" title="codewars" /><a>
+&#8287;&#8287;
+<a href="https://www.npmjs.com/"><img src="./src/images/icons8-npm-48.svg" alt="npmjs" title="npmjs" /><a>
+&#8287;&#8287;
+<a href="https://icons8.ru/"><img src="./src/images/icons8-48.svg" alt="icons8" title="icons8" /><a>
+&#8287;&#8287;
+<a href=""><img src="./src/images/iloveimg_48.svg" alt="iloveimg" title="iloveimg" /><a>
+&#8287;&#8287;
+<a href="https://learn.javascript.ru/"><img src="./src/images/learn_javascript_ru_animate%2048.svg" alt="learn.javascript" title="learn.javascript" /><a>
 </p>
 
 <!--
