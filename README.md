@@ -1,4 +1,5 @@
 <!-- <h1>Всем привет, меня зовут Дмитрий 👋</h1> -->
+
 ![Всем привет, меня зовут Дмитрий 👋](./src/images/Hello-i-am-Dmitry.svg)
 
 - 🎓 Прохожу обучени в [Я.Практикум](https://practicum.yandex.ru/)
@@ -38,14 +39,14 @@
 </p>
 
 ## Учебные проекты:
-* [Проект Mesto фронтенд + бэкенд](https://github.com/TokmakDA/react-mesto-api-full-gha)
-* [Проект Mesto бэкенд на Node.js](https://github.com/TokmakDA/express-mesto-gha)
-* [Проект Mesto на Реакте с авторизацией и регистрацией](https://github.com/TokmakDA/react-mesto-auth)
-* [Фронтенд проекта Mesto на React.](https://github.com/TokmakDA/mesto-react)
-* [Проект: Место](https://github.com/TokmakDA/mesto)
-* [Проект: Путешествие по России](https://github.com/TokmakDA/russian-travel)
-* [How to learn](https://github.com/TokmakDA/how-to-learn)
 
+- [Проект Mesto фронтенд + бэкенд](https://github.com/TokmakDA/react-mesto-api-full-gha)
+- [Проект Mesto бэкенд на Node.js](https://github.com/TokmakDA/express-mesto-gha)
+- [Проект Mesto на Реакте с авторизацией и регистрацией](https://github.com/TokmakDA/react-mesto-auth)
+- [Фронтенд проекта Mesto на React.](https://github.com/TokmakDA/mesto-react)
+- [Проект: Место](https://github.com/TokmakDA/mesto)
+- [Проект: Путешествие по России](https://github.com/TokmakDA/russian-travel)
+- [How to learn](https://github.com/TokmakDA/how-to-learn)
 
 ## Полезные ресурсы:
 
@@ -62,9 +63,11 @@
 &#8287;&#8287;
 <a href="https://icons8.ru/"><img src="./src/images/icons8-48.svg" alt="icons8" title="icons8" height="30px" /><a>
 &#8287;&#8287;
-<a href="https://www.iloveimg.com/"><img src="./src/images/iloveimg_48.svg" alt="iloveimg" title="iloveimg" height="28px" /><a>
+<a href="https://www.iloveimg.com/"><img src="./src/images/iloveimg_48.svg" alt="iloveimg" title="iloveimg" height="30px" /><a>
 &#8287;&#8287;
 <a href="https://learn.javascript.ru/"><img src="./src/images/learn_javascript_ru_animate_48.svg" alt="learn.javascript" title="learn.javascript" height="30px" /><a>
+&#8287;&#8287;
+<a href="https://developer.mozilla.org"><img src="./src/images/developer-mozilla.svg" alt="developer.mozillat" title="developer.mozilla" height="30px" /><a>
 </p>
 
 <!--
