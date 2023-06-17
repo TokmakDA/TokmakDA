@@ -68,6 +68,8 @@
 <a href="https://learn.javascript.ru/"><img src="./src/images/learn_javascript_ru_animate_48.svg" alt="learn.javascript" title="learn.javascript" height="30px" /><a>
 &#8287;&#8287;
 <a href="https://developer.mozilla.org"><img src="./src/images/developer-mozilla.svg" alt="developer.mozillat" title="developer.mozilla" height="30px" /><a>
+&#8287;&#8287;
+<a href="https://ru.bem.info/"><img src="./src/images/logo-bem.svg" alt="БЭМ" title="БЭМ" height="30px" /><a>
 </p>
 
 <!--
