@@ -40,11 +40,11 @@
 
 ## Учебные проекты:
 
-- [Проект Mesto фронтенд + бэкенд](https://github.com/TokmakDA/react-mesto-api-full-gha)
-- [Проект Mesto бэкенд на Node.js](https://github.com/TokmakDA/express-mesto-gha)
-- [Проект Mesto на Реакте с авторизацией и регистрацией](https://github.com/TokmakDA/react-mesto-auth)
+- [Проект: Mesto фронтенд + бэкенд](https://github.com/TokmakDA/react-mesto-api-full-gha)
+- [Проект: Mesto бэкенд на Node.js](https://github.com/TokmakDA/express-mesto-gha)
+- [Проект: Mesto на Реакте с авторизацией и регистрацией](https://github.com/TokmakDA/react-mesto-auth)
 - [Фронтенд проекта Mesto на React](https://github.com/TokmakDA/mesto-react)
-- [Проект: Место](https://github.com/TokmakDA/mesto)
+- [Проект: Mesto](https://github.com/TokmakDA/mesto)
 - [Проект: Путешествие по России](https://github.com/TokmakDA/russian-travel)
 - [How to learn](https://github.com/TokmakDA/how-to-learn)
 
