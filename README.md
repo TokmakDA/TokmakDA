@@ -39,7 +39,8 @@
 </p>
 
 ## Учебные проекты:
-
+- [Дипломный проект "BeatFilm-Movies - Frontend"](https://github.com/TokmakDA/movies-explorer-frontend)
+- [Дипломный проект "BeatFilm-Movies - Backend"](https://github.com/TokmakDA/movies-explorer-api)
 - [Проект: Mesto фронтенд + бэкенд](https://github.com/TokmakDA/react-mesto-api-full-gha)
 - [Проект: Mesto бэкенд на Node.js](https://github.com/TokmakDA/express-mesto-gha)
 - [Проект: Mesto на Реакте с авторизацией и регистрацией](https://github.com/TokmakDA/react-mesto-auth)
