@@ -2,7 +2,8 @@
 
 ![Всем привет, меня зовут Дмитрий 👋](./src/images/Hello-i-am-Dmitry.svg)
 
-- 🎓 Окончил обучение в [Я.Практикум](https://practicum.yandex.ru/) в Июле 2023г.
+- 🎓 Окончил обучение в [Я.Практикум](https://practicum.yandex.ru/) в Июле
+  2023г.
 - 🚀 Хочу постоянно развивать новые навыки
 - 🛠️ Хочу разрабатывать интересные проекты и удобные интерфейсы
 - ✍️ Писать чистый и понятный код
@@ -37,7 +38,16 @@
 <img src="./src/images/icons8-webpack-48.svg" alt="Webpack" title="Webpack" />
 </p>
 
+## Проекты:
+
+- [Янекс Акселератор: "Маркетплейс телеграмм ботов для ритейла"](https://github.com/TokmakDA/frontend-Marketplace-of-telegram-bots-for-retail)
+
+## Пет-проекты:
+
+- [Memory Game: The Simpsons](https://github.com/TokmakDA/my-games)
+
 ## Учебные проекты:
+
 - [Дипломный проект "BeatFilm-Movies - Frontend"](https://github.com/TokmakDA/movies-explorer-frontend)
 - [Дипломный проект "BeatFilm-Movies - Backend"](https://github.com/TokmakDA/movies-explorer-api)
 - [Проект: Mesto фронтенд + бэкенд](https://github.com/TokmakDA/react-mesto-api-full-gha)
