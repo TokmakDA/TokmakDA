@@ -28,6 +28,9 @@
 <!-- Node.js -->
 <img src="./src/images/icons8-node-js-48.svg" alt="Node.js" title="Node.js" />
 &#8287;&#8287;
+<!-- Express js -->
+<img src="./src/images/icons8-express-js-48.svg" alt="Express Js" title="Express Js" />
+&#8287;&#8287;
 <!-- MongoDB -->
 <img src="./src/images/icons8-mongodb-48.svg" alt="MongoDB" title="MongoDB" />
 &#8287;&#8287;
