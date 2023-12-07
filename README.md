@@ -82,6 +82,17 @@
 <a href="https://ru.bem.info/"><img src="./src/images/logo-bem.svg" alt="БЭМ" title="БЭМ" height="30px" /><a>
 </p>
 
+### Статистика:
+
+<!-- codewars -->
+<!-- <img src="https://www.codewars.com/users/MrLisToK/badges/small" alt="codewars" title="codewars" /> -->
+
+![codewars stats](https://www.codewars.com/users/MrLisToK/badges/large)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TokmakDA&show_icons=true&theme=gruvbox&border_color=ffffff00)
+![language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TokmakDA&theme=gruvbox)
+![profile-details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TokmakDA&theme=gruvbox)
+
 <!--
 **TokmakDA/TokmakDA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
