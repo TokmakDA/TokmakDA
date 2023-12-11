@@ -88,9 +88,9 @@
 ### Статистика:
 
 <!-- codewars -->
-<!-- <img src="https://www.codewars.com/users/MrLisToK/badges/small" alt="codewars" title="codewars" /> -->
+<!-- <img src="https://www.codewars.com/users/TokmakDA/badges/large" alt="codewars" title="codewars" /> -->
 
-![codewars stats](https://www.codewars.com/users/MrLisToK/badges/large)
+![codewars stats](https://www.codewars.com/users/TokmakDA/badges/large)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TokmakDA&show_icons=true&theme=gruvbox&border_color=ffffff00)
 ![language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TokmakDA&theme=gruvbox)
