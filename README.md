@@ -61,6 +61,11 @@
 - [Проект: Путешествие по России](https://github.com/TokmakDA/russian-travel)
 - [How to learn](https://github.com/TokmakDA/how-to-learn)
 
+## Хакатоны:
+
+- [Яндекс Мастеркая. ХАКАТОН+. Задача Альфа-Банка](https://github.com/TokmakDA/web-dozen-frontend)
+- [11-12 ноября 2023,Благотворительный Хакатон Для Джунов](https://github.com/TokmakDA/hackathon)
+
 ## Полезные ресурсы:
 
 <p align="center">
