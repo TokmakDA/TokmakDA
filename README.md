@@ -43,7 +43,7 @@
 
 ## Проекты:
 
-- [Янекс Акселератор: "Маркетплейс телеграмм ботов для ритейла"](https://github.com/TokmakDA/frontend-Marketplace-of-telegram-bots-for-retail)
+- [Яндекс Акселератор: "Маркетплейс телеграмм ботов для ритейла"](https://github.com/TokmakDA/frontend-Marketplace-of-telegram-bots-for-retail)
 
 ## Пет-проекты:
 
