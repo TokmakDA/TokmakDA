@@ -1,5 +1,4 @@
 <!-- <h1>Всем привет, меня зовут Дмитрий 👋</h1> -->
-
 ![Всем привет, меня зовут Дмитрий 👋](./src/images/Hello-i-am-Dmitry.svg)
 
 - 🎓 Окончил обучение в [Я.Практикум](https://practicum.yandex.ru/) в Июле
@@ -8,41 +7,7 @@
 - 🛠️ Хочу разрабатывать интересные проекты и удобные интерфейсы
 - ✍️ Писать чистый и понятный код
 
-<h2>Мой стек:</h2>
-<!-- Stack icons section -->
-<p align="center">
-<img src="./src/images/icons8-html-5-48.svg" alt="HTML" title="HTML" />
-&#8287;&#8287;
-<!-- CCS -->
-<img src="./src/images/icons8-css3-48.svg" alt="CCS" title="CCS" />
-&#8287;&#8287;
-<!-- JavaScript -->
-<img src="./src/images/icons8-javascript-48.svg" alt="JavaScript" title="JavaScript" />
-&#8287;&#8287;
-<!-- GIT -->
-<img src="./src/images/icons8-git-48.svg" alt="GIT" title="GIT" />
-&#8287;&#8287;
-<!-- React -->
-<img src="./src/images/icons8-react-native-48.svg" alt="React" title="React" />
-&#8287;&#8287;
-<!-- Node.js -->
-<img src="./src/images/icons8-node-js-48.svg" alt="Node.js" title="Node.js" />
-&#8287;&#8287;
-<!-- Express js -->
-<img src="./src/images/icons8-express-js-48.svg" alt="Express Js" title="Express Js" />
-&#8287;&#8287;
-<!-- MongoDB -->
-<img src="./src/images/icons8-mongodb-48.svg" alt="MongoDB" title="MongoDB" />
-&#8287;&#8287;
-<!-- Bash -->
-<img src="./src/images/icons8-bash-48.svg" alt="Bash" title="Bash" />
-&#8287;&#8287;
-<!-- Webpack -->
-<img src="./src/images/icons8-webpack-48.svg" alt="Webpack" title="Webpack" />
-</p>
-
 ## Проекты:
-
 - [Яндекс Акселератор: "Маркетплейс телеграмм ботов для ритейла"](https://github.com/TokmakDA/frontend-Marketplace-of-telegram-bots-for-retail)
 
 ## Пет-проекты:
@@ -51,6 +16,7 @@
 
 ## Учебные проекты:
 
+- [messenger](https://github.com/TokmakDA/middle.messenger.praktikum.yandex)
 - [Дипломный проект "BeatFilm-Movies - Frontend"](https://github.com/TokmakDA/movies-explorer-frontend)
 - [Дипломный проект "BeatFilm-Movies - Backend"](https://github.com/TokmakDA/movies-explorer-api)
 - [Проект: Mesto фронтенд + бэкенд](https://github.com/TokmakDA/react-mesto-api-full-gha)
@@ -63,8 +29,64 @@
 
 ## Хакатоны:
 
-- [Яндекс Мастеркая. ХАКАТОН+. Задача Альфа-Банка](https://github.com/TokmakDA/web-dozen-frontend)
+- [20.02-11.03 2024, Яндекс Мастеркая. ХАКАТОН+. Задача CRM Амбассадоры Практикума](https://github.com/Tenth-Team/frontend)
+- [16.01-05.02 2024, Яндекс Мастеркая. ХАКАТОН+. Задача Альфа-Банка](https://github.com/TokmakDA/web-dozen-frontend)
 - [11-12 ноября 2023,Благотворительный Хакатон Для Джунов](https://github.com/TokmakDA/hackathon)
+
+<h2>Мой стек:</h2>
+<!-- Stack icons section -->
+<p align="center">
+<!-- HTML -->
+<img src="./src/images/icons8-html-5-48.svg" height="48px" alt="HTML" title="HTML" />
+&#8287;&#8287;
+<!-- CSS -->
+<img src="./src/images/icons8-css3-48.svg" height="48px" alt="CSS" title="CSS" />
+&#8287;&#8287;
+<!-- SCSS SASS -->
+<img src="./src/images/logo-sass.svg" height="48px" height="48px" alt="SCSS SASS" title="SCSS SASS" />
+&#8287;&#8287;
+<!-- JavaScript -->
+<img src="./src/images/icons8-javascript-48.svg" height="48px" alt="JavaScript" title="JavaScript" />
+&#8287;&#8287;
+<!-- TypeScript -->
+<img src="./src/images/icons8-typescript-48.svg" height="48px" alt="JavaScript" title="JavaScript" />
+&#8287;&#8287;
+<!-- GIT -->
+<img src="./src/images/icons8-git-48.svg" height="48px" alt="GIT" title="GIT" />
+&#8287;&#8287;
+<!-- React -->
+<img src="./src/images/icons8-react-native-48.svg" height="48px" alt="React" title="React" />
+&#8287;&#8287;
+<!-- Redux -->
+<img src="./src/images/logo-redux.svg" height="48px" alt="Redux" title="Redux" />
+&#8287;&#8287;
+<!-- Node.js -->
+<img src="./src/images/icons8-node-js-48.svg" height="48px" alt="Node.js" title="Node.js" />
+&#8287;&#8287;
+<!-- Express js -->
+<img src="./src/images/icons8-express-js-48.svg" height="48px" alt="Express Js" title="Express Js" />
+&#8287;&#8287;
+<!-- MongoDB -->
+<img src="./src/images/icons8-mongodb-48.svg" height="48px" alt="MongoDB" title="MongoDB" />
+&#8287;&#8287;
+<!-- Bash -->
+<img src="./src/images/icons8-bash-48.svg" height="48px" alt="Bash" title="Bash" />
+&#8287;&#8287;
+<!-- Webpack -->
+<img src="./src/images/icons8-webpack-48.svg" height="48px" alt="Webpack" title="Webpack" />
+&#8287;&#8287;
+<!-- VITE -->
+<img src="./src/images/vite.svg" height="48px" alt="VITE" title="VITE" />
+&#8287;&#8287;
+<!-- Axios -->
+<img src="./src/images/axios.svg" height="48px" width="80px" alt="Axios" title="Axios" />
+&#8287;&#8287;
+<!-- Mui -->
+<img src="./src/images/logo-mui.svg" height="48px" alt="Mui" title="Mui" />
+&#8287;&#8287;
+<!-- Postman -->
+<img src="./src/images/postman-logo-icon-orange.svg" height="48px" alt="Postman" title="Postman" />
+</p>
 
 ## Полезные ресурсы:
 
@@ -91,9 +113,6 @@
 </p>
 
 ### Статистика:
-
-<!-- codewars -->
-<!-- <img src="https://www.codewars.com/users/TokmakDA/badges/large" alt="codewars" title="codewars" /> -->
 
 ![codewars stats](https://www.codewars.com/users/TokmakDA/badges/large)
 
