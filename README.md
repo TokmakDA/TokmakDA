@@ -1,13 +1,4 @@
 <!-- <h1>Всем привет, меня зовут Дмитрий 👋</h1> -->
-<style>
-  .links {
-    display: flex;
-    justify-content: center;
-    flex-direction: row;
-    flex-wrap: wrap;
-    gap: 5px;
-  }
-</style>
 
 ![Всем привет, меня зовут Дмитрий 👋](./src/images/Hello-i-am-Dmitry.svg)
 
@@ -47,7 +38,7 @@
 
 <h2>Мой стек:</h2>
 <!-- Stack icons section -->
-<div class="links">
+<div align="center">
   <!-- HTML -->
   <a href="https://www.w3.org/html/"><img src="./src/images/icons8-html-5-48.svg" height="48px" alt="HTML" title="HTML" /></a>
   &#8287;&#8287;
@@ -115,7 +106,7 @@
 
 ## Полезные ресурсы:
 
-<div class="links">
+<div align="center">
   <a href="https://stackoverflow.com/"><img src="./src/images/icons8-stack-overflow-48.svg" alt="stackoverflow" title="stackoverflow" height="30px" /></a>
   &#8287;&#8287;
   <a href="https://github.com/"><img src="./src/images/icons8-github-48.svg" alt="GitHub" title="GitHub" height="30px" /></a>
