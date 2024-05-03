@@ -38,7 +38,7 @@
 
 <h2>Мой стек:</h2>
 <!-- Stack icons section -->
-<div align="center">
+<div style="display:flex;justify-content:center;flex-direction:row;flex-wrap: wrap;gap:5px">
   <!-- HTML -->
   <a href="https://www.w3.org/html/"><img src="./src/images/icons8-html-5-48.svg" height="48px" alt="HTML" title="HTML" /></a>
   &#8287;&#8287;
