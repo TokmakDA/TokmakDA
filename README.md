@@ -115,13 +115,11 @@
 ## Полезные ресурсы:
 
 <div
-  style="
-    display: flex;
+  style="display: flex;
     justify-content: center;
     flex-direction: row;
     flex-wrap: wrap;
-    gap: 5px
-  "
+    gap: 5px"
   >
   <a href="https://stackoverflow.com/"><img src="./src/images/icons8-stack-overflow-48.svg" alt="stackoverflow" title="stackoverflow" height="30px" /></a>
   &#8287;&#8287;
