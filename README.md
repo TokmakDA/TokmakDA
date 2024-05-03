@@ -38,157 +38,111 @@
 
 <h2>Мой стек:</h2>
 <!-- Stack icons section -->
-<div align="center">
+<div
+  style="
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 5px
+  "
+  >
   <!-- HTML -->
-  <a href="https://www.w3.org/html/">
-    <img src="./src/images/icons8-html-5-48.svg" height="48px" alt="HTML" title="HTML" />
-  </a>
+  <a href="https://www.w3.org/html/"><img src="./src/images/icons8-html-5-48.svg" height="48px" alt="HTML" title="HTML" /></a>
   &#8287;&#8287;
   <!-- CSS -->
-  <a href="https://www.w3.org/Style/CSS/">
-    <img src="./src/images/icons8-css3-48.svg" height="48px" alt="CSS" title="CSS" />
-  </a>
+  <a href="https://www.w3.org/Style/CSS/"><img src="./src/images/icons8-css3-48.svg" height="48px" alt="CSS" title="CSS" /></a>
   &#8287;&#8287;
   <!-- SCSS SASS -->
-  <a href="https://sass-lang.com/">
-    <img src="./src/images/logo-sass.svg" height="48px" height="48px" alt="SCSS SASS" title="SCSS SASS" />
-  </a>
+  <a href="https://sass-lang.com/"><img src="./src/images/logo-sass.svg" height="48px" height="48px" alt="SCSS SASS" title="SCSS SASS" /></a>
   &#8287;&#8287;
   <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="./src/images/icons8-javascript-48.svg" height="48px" alt="JavaScript" title="JavaScript" />
-  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./src/images/icons8-javascript-48.svg" height="48px" alt="JavaScript" title="JavaScript" /></a>
   &#8287;&#8287;
   <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/">
-    <img src="./src/images/icons8-typescript-48.svg" height="48px" alt="JavaScript" title="JavaScript" />
-  </a>
+  <a href="https://www.typescriptlang.org/"><img src="./src/images/icons8-typescript-48.svg" height="48px" alt="JavaScript" title="JavaScript" /></a>
   &#8287;&#8287;
   <!-- React -->
-  <a href="https://react.dev/">
-    <img src="./src/images/icons8-react-native-48.svg" height="48px" alt="React" title="React" />
-  </a>
+  <a href="https://react.dev/"><img src="./src/images/icons8-react-native-48.svg" height="48px" alt="React" title="React" /></a>
   &#8287;&#8287;
   <!-- Redux -->
-  <a href="https://redux.js.org/">
-    <img src="./src/images/logo-redux.svg" height="48px" alt="Redux" title="Redux" />
-  </a>
+  <a href="https://redux.js.org/"><img src="./src/images/logo-redux.svg" height="48px" alt="Redux" title="Redux" /></a>
   &#8287;&#8287;
   <!-- Vue -->
-  <a href="https://vuejs.org/">
-    <img src="./src/images/icons8-vue-js.svg" height="48px" alt="Vue" title="Vue" />
-  </a>
+  <a href="https://vuejs.org/"><img src="./src/images/icons8-vue-js.svg" height="48px" alt="Vue" title="Vue" /></a>
   &#8287;&#8287;
   <!-- Pinia -->
-  <a href="https://pinia.vuejs.org/">
-    <img src="./src/images/logo-pinia.svg" height="48px" alt="Pinia" title="Pinia" />
-  </a>
+  <a href="https://pinia.vuejs.org/"><img src="./src/images/logo-pinia.svg" height="48px" alt="Pinia" title="Pinia" /></a>
   &#8287;&#8287;
   <!-- Node.js -->
-  <a href="https://nodejs.org/en">
-    <img src="./src/images/icons8-node-js-48.svg" height="48px" alt="Node.js" title="Node.js" />
-  </a>
+  <a href="https://nodejs.org/en"><img src="./src/images/icons8-node-js-48.svg" height="48px" alt="Node.js" title="Node.js" /></a>
   &#8287;&#8287;
   <!-- Express js -->
-  <a href="https://expressjs.com/">
-    <img src="./src/images/icons8-express-js-48.svg" height="48px" alt="Express Js" title="Express Js" />
-  </a>
+  <a href="https://expressjs.com/"><img src="./src/images/icons8-express-js-48.svg" height="48px" alt="Express Js" title="Express Js" /></a>
   &#8287;&#8287;
   <!-- MongoDB -->
-  <a href="https://www.mongodb.com/">
-    <img src="./src/images/icons8-mongodb-48.svg" height="48px" alt="MongoDB" title="MongoDB" />
-  </a>
+  <a href="https://www.mongodb.com/"><img src="./src/images/icons8-mongodb-48.svg" height="48px" alt="MongoDB" title="MongoDB" /></a>
   &#8287;&#8287;
   <!-- Bash -->
-  <a href="">
-    <img src="./src/images/icons8-bash-48.svg" height="48px" alt="Bash" title="Bash" />
-  </a>
+  <a href=""><img src="./src/images/icons8-bash-48.svg" height="48px" alt="Bash" title="Bash" /></a>
   &#8287;&#8287;
   <!-- Webpack -->
-  <a href="https://webpack.js.org/">
-    <img src="./src/images/icons8-webpack-48.svg" height="48px" alt="Webpack" title="Webpack" />
-  </a>
+  <a href="https://webpack.js.org/"><img src="./src/images/icons8-webpack-48.svg" height="48px" alt="Webpack" title="Webpack" /></a>
   &#8287;&#8287;
   <!-- Vite -->
-  <a href="https://vitejs.dev/">
-    <img src="./src/images/vite.svg" height="48px" alt="Vite" title="Vite" />
-  </a>
+  <a href="https://vitejs.dev/"><img src="./src/images/vite.svg" height="48px" alt="Vite" title="Vite" /></a>
   &#8287;&#8287;
   <!-- Axios -->
-  <a href="https://axios-http.com/">
-    <img src="./src/images/axios.svg" height="48px" width="80px" alt="Axios" title="Axios" />
-  </a>
+  <a href="https://axios-http.com/"><img src="./src/images/axios.svg" height="48px" width="80px" alt="Axios" title="Axios" /></a>
   &#8287;&#8287;
   <!-- Mui -->
-  <a href="https://mui.com/">
-    <img src="./src/images/logo-mui.svg" height="48px" alt="Mui" title="Mui" />
-  </a>
+  <a href="https://mui.com/"><img src="./src/images/logo-mui.svg" height="48px" alt="Mui" title="Mui" /></a>
   &#8287;&#8287;
   <!-- Vuetyfy -->
-  <a href="https://vuetifyjs.com/en/">
-    <img src="./src/images/logo-vuetyfy.svg" height="48px" alt="Vuetyfy" title="Vuetyfy" />
-  </a>
+  <a href="https://vuetifyjs.com/en/"><img src="./src/images/logo-vuetyfy.svg" height="48px" alt="Vuetyfy" title="Vuetyfy" /></a>
   &#8287;&#8287;
   <!-- Postman -->
-  <a href="https://www.postman.com/">
-    <img src="./src/images/postman-logo-icon-orange.svg" height="48px" alt="Postman" title="Postman" />
-  </a>
+  <a href="https://www.postman.com/"><img src="./src/images/postman-logo-icon-orange.svg" height="48px" alt="Postman" title="Postman" /></a>
   &#8287;&#8287;
   <!-- Figma -->
-  <a href="https://www.figma.com/">
-    <img src="./src/images/icons8-figma.svg" height="48px" alt="Figma" title="Figma" />
-  </a>
+  <a href="https://www.figma.com/"><img src="./src/images/icons8-figma.svg" height="48px" alt="Figma" title="Figma" /></a>
   &#8287;&#8287;
   <!-- GIT -->
-  <a href="https://github.com/">
-    <img src="./src/images/icons8-git-48.svg" height="48px" alt="GIT" title="GIT" />
-  </a>
+  <a href="https://github.com/"><img src="./src/images/icons8-git-48.svg" height="48px" alt="GIT" title="GIT" /></a>
   &#8287;&#8287;
 </div>
 
 ## Полезные ресурсы:
 
-<div align="center">
-  <a href="https://stackoverflow.com/">
-    <img src="./src/images/icons8-stack-overflow-48.svg" alt="stackoverflow" title="stackoverflow" height="30px" />
-  </a>
+<div
+  style="
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 5px
+  "
+  >
+  <a href="https://stackoverflow.com/"><img src="./src/images/icons8-stack-overflow-48.svg" alt="stackoverflow" title="stackoverflow" height="30px" /></a>
   &#8287;&#8287;
-  <a href="https://github.com/">
-    <img src="./src/images/icons8-github-48.svg" alt="GitHub" title="GitHub" height="30px" />
-  <a>
+  <a href="https://github.com/"><img src="./src/images/icons8-github-48.svg" alt="GitHub" title="GitHub" height="30px" /></a>
   &#8287;&#8287;
-  <a href="https://codepen.io/">
-    <img src="./src/images/icons8-codepen-48.svg" alt="codepen" title="codepen" height="30px" />
-  <a>
+  <a href="https://codepen.io/"><img src="./src/images/icons8-codepen-48.svg" alt="codepen" title="codepen" height="30px" /></a>
   &#8287;&#8287;
-  <a href="https://www.codewars.com/">
-    <img src="./src/images/icons8-codewars-48.svg" alt="codewars" title="codewars" height="30px" />
-  <a>
+  <a href="https://www.codewars.com/"><img src="./src/images/icons8-codewars-48.svg" alt="codewars" title="codewars" height="30px" /></a>
   &#8287;&#8287;
-  <a href="https://www.npmjs.com/">
-    <img src="./src/images/icons8-npm-48.svg" alt="npmjs" title="npmjs" height="30px" />
-  <a>
+  <a href="https://www.npmjs.com/"><img src="./src/images/icons8-npm-48.svg" alt="npmjs" title="npmjs" height="30px" /></a>
   &#8287;&#8287;
-  <a href="https://icons8.ru/">
-    <img src="./src/images/icons8-48.svg" alt="icons8" title="icons8" height="30px" />
-  <a>
+  <a href="https://icons8.ru/"><img src="./src/images/icons8-48.svg" alt="icons8" title="icons8" height="30px" /></a>
   &#8287;&#8287;
-  <a href="https://www.iloveimg.com/">
-    <img src="./src/images/iloveimg_48.svg" alt="iloveimg" title="iloveimg" height="30px" />
-  <a>
+  <a href="https://www.iloveimg.com/"><img src="./src/images/iloveimg_48.svg" alt="iloveimg" title="iloveimg" height="30px" /></a>
   &#8287;&#8287;
-  <a href="https://learn.javascript.ru/">
-    <img src="./src/images/learn_javascript_ru_animate_48.svg" alt="learn.javascript" title="learn.javascript" height="30px" />
-  <a>
+  <a href="https://learn.javascript.ru/"><img src="./src/images/learn_javascript_ru_animate_48.svg" alt="learn.javascript" title="learn.javascript" height="30px" /></a>
   &#8287;&#8287;
-  <a href="https://developer.mozilla.org">
-    <img src="./src/images/developer-mozilla.svg" alt="developer.mozillat" title="developer.mozilla" height="30px" />
-  <a>
+  <a href="https://developer.mozilla.org"><img src="./src/images/developer-mozilla.svg" alt="developer.mozillat" title="developer.mozilla" height="30px" /></a>
   &#8287;&#8287;
-  <a href="https://ru.bem.info/">
-    <img src="./src/images/logo-bem.svg" alt="БЭМ" title="БЭМ" height="30px" />
-  <a>
-</p>
+  <a href="https://ru.bem.info/"><img src="./src/images/logo-bem.svg" alt="БЭМ" title="БЭМ" height="30px" /></a>
+</div>
 
 ### Статистика:
 
