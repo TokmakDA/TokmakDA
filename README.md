@@ -1,13 +1,16 @@
 <!-- <h1>Всем привет, меня зовут Дмитрий 👋</h1> -->
+
 ![Всем привет, меня зовут Дмитрий 👋](./src/images/Hello-i-am-Dmitry.svg)
 
 - 🎓 Окончил обучение в [Я.Практикум](https://practicum.yandex.ru/) в Июле
   2023г.
+- 🎓 Прохожу обучение в [Я.Практикум](https://practicum.yandex.ru/) на курсе _*Мидл фронтенд-разработчик + React*_.
 - 🚀 Хочу постоянно развивать новые навыки
 - 🛠️ Хочу разрабатывать интересные проекты и удобные интерфейсы
 - ✍️ Писать чистый и понятный код
 
 ## Проекты:
+
 - [Яндекс Акселератор: "Маркетплейс телеграмм ботов для ритейла"](https://github.com/TokmakDA/frontend-Marketplace-of-telegram-bots-for-retail)
 
 ## Пет-проекты:
@@ -51,14 +54,17 @@
 <!-- TypeScript -->
 <img src="./src/images/icons8-typescript-48.svg" height="48px" alt="JavaScript" title="JavaScript" />
 &#8287;&#8287;
-<!-- GIT -->
-<img src="./src/images/icons8-git-48.svg" height="48px" alt="GIT" title="GIT" />
-&#8287;&#8287;
 <!-- React -->
 <img src="./src/images/icons8-react-native-48.svg" height="48px" alt="React" title="React" />
 &#8287;&#8287;
 <!-- Redux -->
 <img src="./src/images/logo-redux.svg" height="48px" alt="Redux" title="Redux" />
+&#8287;&#8287;
+<!-- Vue -->
+<img src="./src/images/icons8-vue-js.svg" height="48px" alt="Vue" title="Vue" />
+&#8287;&#8287;
+<!-- Pinia -->
+<img src="./src/images/logo-pinia.svg" height="48px" alt="Pinia" title="Pinia" />
 &#8287;&#8287;
 <!-- Node.js -->
 <img src="./src/images/icons8-node-js-48.svg" height="48px" alt="Node.js" title="Node.js" />
@@ -84,8 +90,18 @@
 <!-- Mui -->
 <img src="./src/images/logo-mui.svg" height="48px" alt="Mui" title="Mui" />
 &#8287;&#8287;
+<!-- Vuetyfy -->
+<img src="./src/images/logo-vuetyfy.svg" height="48px" alt="Vuetyfy" title="Vuetyfy" />
+&#8287;&#8287;
 <!-- Postman -->
 <img src="./src/images/postman-logo-icon-orange.svg" height="48px" alt="Postman" title="Postman" />
+&#8287;&#8287;
+<!-- Figma -->
+<img src="./src/images/icons8-figma.svg" height="48px" alt="Figma" title="Figma" />
+&#8287;&#8287;
+<!-- GIT -->
+<img src="./src/images/icons8-git-48.svg" height="48px" alt="GIT" title="GIT" />
+&#8287;&#8287;
 </p>
 
 ## Полезные ресурсы:
